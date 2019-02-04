@@ -1,2 +1,0 @@
-# polito-repo
-project
