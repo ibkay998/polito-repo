@@ -213,3 +213,150 @@ textarea {
   text-align: right;
 }
 
+.dashboard {
+  background-color: #91e491
+}
+#first{
+  margin-left: 45%;
+}
+#header{
+  height: 62px;
+  background-color:#a7d7c5;
+}
+
+
+#title ul{
+  padding-left: 867px;
+  padding-top: 35px;
+}
+#title li{
+  color: #53ba85;
+  list-style: none;
+  float: left;
+  padding-left: 25px;
+}
+#title img{
+  padding-top: 13px;
+  float: left;
+  padding-left: 133px;
+  width: 321px;
+  height: 60px;
+}
+#title li a{
+  border-radius: 10px;
+  padding: 7px;
+  color: white;
+  background-color: #568d89;
+}
+#title #second{
+  padding-right:40px; 
+}
+#body{
+
+  margin-bottom: 40px;
+
+}
+#vote p{
+  margin: auto;
+  padding-top:20px; 
+  padding-left: 45%;
+}
+.fool{
+  margin-left: 40%;
+  border: 0;
+  outline: none;
+  border-radius: 0;
+  padding: 15px 0;
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background: #1ab188;
+  color: #ffffff;
+  transition: all 0.5s ease;
+  -webkit-appearance: none;
+  
+}
+.holder{
+  margin-left: 36%;
+  margin-top: 84px;
+  width: 400px;
+  height: 400px;
+  background-color: lightblue;
+  border: solid;
+  overflow: auto;
+  
+}
+.forever img{
+  height: 133px;
+  border-radius: 68px;
+}
+.forever { 
+  margin-top: 48px;
+  height: 133px;
+  border-radius: 68px;
+}
+.holder ul{
+  list-style: none;
+}
+.holder p {
+  margin-top: 64px;
+  margin-right: 20px;
+  float: right;
+}
+.carry{
+  margin-left: 26%;
+}
+#sec1{
+    margin-top: 20px;
+}
+#sec2{
+    margin-top: 20px;
+}
+#section-1{
+  width: 36%;
+  height: 150px;
+  overflow: auto;
+  background-color: #a7d7c5;
+  border-radius: 10px
+}
+#section-2{
+    width: 60%;
+    height: 150px;
+    background-color: #a7d7c5;
+    border-radius: 10px;
+}
+#topic1{
+    margin-left: 41px;
+    margin-bottom:10px; 
+    background-color: #a7d7c5;
+    width: 81px;
+}
+#section-1 li{
+    list-style:none;
+    margin-bottom: 56px;
+    
+}
+#left-section{
+    float: left;
+}
+#right-section{
+    float: right;
+    padding-right: 20px;
+}
+.dissapear{
+
+}
+.side-section{
+  width:30%;
+  float: left;
+  background-color: #39664f;
+  height: 400px;
+}
+.main-section{
+  margin-left: 30%;
+}
+.top-section{
+  height: 250px;
+  background-color: #1ab188;
+}
